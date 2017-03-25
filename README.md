@@ -19,13 +19,14 @@ Memory  | 2GB RAM
 Shipped Android Version | 5.1
 Storage | 16GB
 Battery | 2000 mAh
-Display | 5" 1480 x 854 px
+Display | 5" 480 x 854 px
 Rear Camera | 8MP
 Front Camera | 5MP
 
 ---
 
 # Build Information
+ * Nothing works, just bootloop
 
 
 ### Thanks to:
